@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 "Telperion e Laurelin, árvores da Terra Média"
 
 ## 📒 Descrição
-Miha intenção era recriar através de imagens "Telperion e Laurelin" (árvores da Terra Média), referindo-me ao Universo criado por John Ronald Reuel Tolkien (J.R.R.Tolkien, autor de O Senhor dos Anéis, O Hobbit e outros).
+Minha intenção era recriar através de imagens "Telperion e Laurelin" (árvores da Terra Média), referindo-me ao Universo criado por John Ronald Reuel Tolkien (J.R.R.Tolkien, autor de O Senhor dos Anéis, O Hobbit e outros).
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei a I.A. Bing Image Creator (Microsoft)
