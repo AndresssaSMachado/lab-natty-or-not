@@ -19,30 +19,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+"Telperion e Laurelin, árvores da Terra Média"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Miha intenção era recriar através de imagens "Telperion e Laurelin" (árvores da Terra Média), referindo-me ao Universo criado por John Ronald Reuel Tolkien (J.R.R.Tolkien, autor de O Senhor dos Anéis, O Hobbit e outros).
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei a I.A. Bing Image Creator (Microsoft)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O comando que dei foi "Telperion e Laurelin, árvores da Terra Média", referindo-me ao Universo criado por John Ronald Reuel Tolkien (J.R.R.Tolkien, autor de O Senhor dos Anéis, O Hobbit e outros - literatura fantástica).
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Telperion e Laurelin, árvores da Terra Média"
+[https://www.bing.com/images/create/telperion-e-laurelin/1-65e72f44000f4b958e0e5070ad5ade89?id=GQYQn6do2%2bqljT%2bF7FqsKg%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.aZ_r.I11J5BFsSMwMtWy&FORM=GCRIDP&mode=overlay]
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É incrível ver em imagens aquilo que lendo em um livro criamos primeiramente em nossa própria mente.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
