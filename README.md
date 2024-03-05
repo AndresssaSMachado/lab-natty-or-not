@@ -33,7 +33,7 @@ O comando que dei foi "Telperion e Laurelin, árvores da Terra Média", referind
 
 ## 🚀 Resultados
 "Telperion e Laurelin, árvores da Terra Média"
-[https://www.bing.com/images/create/telperion-e-laurelin/1-65e72f44000f4b958e0e5070ad5ade89?id=GQYQn6do2%2bqljT%2bF7FqsKg%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.aZ_r.I11J5BFsSMwMtWy&FORM=GCRIDP&mode=overlay]
+
 
 ## 💭 Reflexão (Opcional)
 É incrível ver em imagens aquilo que lendo em um livro criamos primeiramente em nossa própria mente.
